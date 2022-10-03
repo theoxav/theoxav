@@ -1,7 +1,6 @@
-### Hi there 👋
-- My name is __Théo__ ,  
+### Hi there 👋  
 Welcome to my GitHub profile  
-I'm a junior fullstack developer  
+My name is __Théo__, a junior fullstack developer from France
 
 <!--
 **theoxav/theoxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
