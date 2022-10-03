@@ -1,23 +1,8 @@
 ### Hi there 👋  
 Welcome to my GitHub profile  
-My name is __Théo__, a junior fullstack developer from France  
+My name is __Théo__, a junior fullstack developer from France🔭  
 -
 # Technologies  
--  
-## Front-end  
-
- [![Next][Next.js]][Next-url]
- [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-## Back-end
-
-
 
 <!--
 **theoxav/theoxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
