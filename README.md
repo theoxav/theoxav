@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Théo ,
+Welcome to my GitHub profile
+I'm a junior fullstack developer
 
 <!--
 **theoxav/theoxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
