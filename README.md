@@ -3,6 +3,7 @@ Welcome to my GitHub profile
 My name is __Théo__, a junior fullstack developer from France 
 -
 # ⚡ Technologies  
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw36SYoSxItg19vQpmKLwH1p&ust=1664904773345000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjUx9_LxPoCFQAAAAAdAAAAABAN
 
 <!--
 **theoxav/theoxav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
