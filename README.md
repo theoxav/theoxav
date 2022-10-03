@@ -2,7 +2,8 @@
 Welcome to my GitHub profile  
 My name is __Théo__, a junior fullstack developer from France  
 -
-#titre Technologies  
+#Technologies  
+-
 ##titre Front-end  
 
 
