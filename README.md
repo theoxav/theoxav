@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Théo ,
+- My name is __Théo__ ,
 Welcome to my GitHub profile
 I'm a junior fullstack developer
 
