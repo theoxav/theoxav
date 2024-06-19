@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
-<h3 align="center">A passionate fullstack junior developer from France</h3>
+<h3 align="center">A passionate Fullstack junior developer from France</h3>
 <p align="left">
 </p>
 <h3 align="left">Skills:</h3>
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
   <br>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
