@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
-<h3 align="center">A passionate Fullstack junior developer from France</h3>
+<h3 align="center">A passionate Fullstack developer from France</h3>
 
 ## 🏋️‍♂️ About Me
 Before diving into development, I spent eight years with the Paris Firefighters. This experience helped me cultivate a strong team spirit, a deep sense of mutual support, and a keen eye for detail, all while embracing continuous learning.
